@@ -1,3 +1,7 @@
+// Pedro Urbina
+// ROBO 380 - Mechatronics
+// Spring 2019
+
 #include <Wire.h>
 #include <Adafruit_PWMServoDriver.h>
 #include <IRremote.h>
